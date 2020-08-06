@@ -10,6 +10,3 @@ A CS Undergard (III Year) 💻 in [Thapar Institute of Engineering and Technolog
 - Python 3
 - C++
 - R (just started)
-
-
-## Connect with Me
