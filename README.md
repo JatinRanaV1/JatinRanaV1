@@ -20,4 +20,3 @@ CSE 3rd Year 💻 at [Thapar Institute of Engineering and Technology](https://th
 ### Technical Stack
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Tensorflow-%23FF6FOO.svg?&style=flat-square&logo=Tensorflow&logoColor=white" />   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white" /> 
 
-![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=jatinranav1&show_icons=true&theme=radical)
