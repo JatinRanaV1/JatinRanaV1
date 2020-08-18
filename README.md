@@ -1,4 +1,4 @@
-# Hi I'm Jatin :wave:
+# Hi! I'm Jatin :wave:
 CSE 3rd Year 💻 at [Thapar Institute of Engineering and Technology](https://thapar.edu)
 
 - 🔭 I’m currently working on Machine Learning, Deep Learning and Computer Vision
