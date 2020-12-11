@@ -1,10 +1,10 @@
 # Hi! I'm Jatin :wave:
 CSE 3rd Year 💻 at [Thapar Institute of Engineering and Technology](https://thapar.edu)
 
-- 🔭 I’m currently working on Machine Learning, Deep Learning and Computer Vision
-- 🌱 I’m currently learning basics of Data Science and R Programming
-- 🤝 I’m looking to collaborate on Data Science and Machine Learning projects
-- 👯 I’m also interested in Animation using Blender tool
+- 🔭 I’m currently working on Machine Learning, Deep Learning and Computer Vision.
+- 🌱 I’m currently learning basics of Data Science and R Programming.
+- 🤝 I’m looking to collaborate on Data Science and Machine Learning projects.
+- 👯 I’m also interested in Animation using Blender tool.
 
 
 ## Languages I write in :pencil2:
