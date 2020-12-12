@@ -10,7 +10,7 @@ CSE 3rd Year 💻 at [Thapar Institute of Engineering and Technology](https://th
 ## Languages I write in :pencil2:
 - Python 3
 - C++
-- R (just started)
+- R
 
 ### Connect with Me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jatin-rana-10678516b/)
