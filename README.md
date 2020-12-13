@@ -1,5 +1,5 @@
 # Hi! I'm Jatin :wave:
-CSE 3rd Year B.E. Undergrad 💻 at [Thapar Institute of Engineering and Technology](https://thapar.edu)
+3rd Year B.E. CSE Undergrad 💻 at [Thapar Institute of Engineering and Technology](https://thapar.edu)
 
 - 🔭 I’m currently working on Machine Learning, Deep Learning and Computer Vision.
 - 🌱 I’m currently learning basics of Data Science and R Programming.
