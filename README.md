@@ -9,7 +9,7 @@
 
 ## Languages I write in :pencil2:
 - Python 3
-- C++
+- C/C++
 - R
 
 ### Connect with Me
