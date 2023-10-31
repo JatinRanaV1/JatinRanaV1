@@ -1,16 +1,5 @@
 # Hi! I'm Jatin :wave:
-3rd Year CSE Undergrad 💻 at [Thapar Institute of Engineering and Technology](https://thapar.edu)
 
-- 🔭 I’m currently working on Machine Learning and Deep Learning.
-- 🌱 I’m currently learning basics of Data Science and R Programming.
-- 🤝 I’m looking to collaborate on Data Science and Machine Learning projects.
-- 👯 I’m also interested in Animation using Blender tool.
-
-
-## Languages I write in :pencil2:
-- Python 3
-- C/C++
-- R
 
 ### Connect with Me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jatin-rana-10678516b/)
